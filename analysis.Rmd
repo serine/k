@@ -1,0 +1,12 @@
+---
+title: Analysis
+author: '`r Sys.info()["user"]`'
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+```{bash}
+echo Yay! bioinformatics
+```
